@@ -1,1 +1,4 @@
-
+A man start at 0 0 position . First turn he move to the right for 10 units then moves to upword for 20 units.
+then moves to left turn for 30 units . then moves to downword for 40 units. then moves to right for 50 units.
+input = number of turns (eg:3)
+output = corordinates (eg: -20 20)
